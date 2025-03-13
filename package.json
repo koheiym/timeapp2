@@ -9,11 +9,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "��#\u0000 \u0000t\u0000i\u0000m\u0000e\u0000c\u0000a\u0000r\u0000d\u0000_\u0000a\u0000p\u0000p\u0000\r\u0000 \u0000",
   "devDependencies": {
-    "electron": "^35.0.0"
+    "electron": "^35.0.1"
   },
   "dependencies": {
     "xlsx": "^0.18.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koheiym/timeapp2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/koheiym/timeapp2/issues"
+  },
+  "homepage": "https://github.com/koheiym/timeapp2#readme"
 }
